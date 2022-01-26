@@ -152,7 +152,7 @@ a {
 }
 
 #myVideo {
-  position: absolute;
+  position: fixed;
   right: 0;
   top: 170px;
   bottom: 0;
